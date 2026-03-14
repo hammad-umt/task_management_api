@@ -1,0 +1,6 @@
+@TMIApi_HostAddress = http://localhost:5004
+
+GET {{TMIApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
