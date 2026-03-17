@@ -162,3 +162,4 @@ C:\Users\hamma\Desktop\C# Tasks\Web Api Tasks\TMIApi\bin\Debug\net10.0\Microsoft
 C:\Users\hamma\Desktop\C# Tasks\Web Api Tasks\TMIApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\hamma\Desktop\C# Tasks\Web Api Tasks\TMIApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\hamma\Desktop\C# Tasks\Web Api Tasks\TMIApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hamma\Desktop\C# Tasks\Web Api Tasks\TMIApi\obj\Debug\net10.0\TMIApi.sourcelink.json
